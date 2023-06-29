@@ -1,0 +1,31 @@
+body{
+    max-width: 100%;
+    overflow-x:hidden;
+}
+
+.dashboard{
+    padding-left:20px
+}
+
+.navRight{
+    margin-left:auto;
+    margin-right: 150px;
+}
+
+.cartDetailsTable{
+    text-align: center;
+    padding-left:45px;
+}
+
+/*
+.cartDropdown{
+    max-width:2px;
+
+}    
+
+.cartItems{
+    column-fill:auto;
+}
+*/
+
+
