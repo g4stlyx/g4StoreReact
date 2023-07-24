@@ -1,31 +1,32 @@
 body{
     max-width: 100%;
-    overflow-x:hidden;
+    /* overflow-x:hidden; */
 }
 
 .dashboard{
     padding-left:20px
 }
 
+.nav-main{
+    display:flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+.nav{
+    width: 100%;
+}
+
+.navBrand{
+    margin-left: 5%
+}
+
 .navRight{
     margin-left:auto;
-    margin-right: 150px;
+    margin-right: 5%;
 }
 
 .cartDetailsTable{
     text-align: center;
     padding-left:45px;
 }
-
-/*
-.cartDropdown{
-    max-width:2px;
-
-}    
-
-.cartItems{
-    column-fill:auto;
-}
-*/
-
-
